@@ -1,0 +1,22 @@
+17:26:20,898 DEBUG devpinoyLogger:46 - config file loaded !!!
+17:26:20,898 DEBUG devpinoyLogger:49 - OR file loaded !!!
+17:26:20,898 DEBUG devpinoyLogger:68 - chrome launched !!!
+17:26:29,069 DEBUG devpinoyLogger:88 - navigated to: https://www.zoho.com/index.html
+17:26:31,823 DEBUG devpinoyLogger:114 - Clicking on element: loginLink_CSS
+17:26:32,121 DEBUG devpinoyLogger:130 - Typing in an element: email_CSS entered value as: leonushar@gmail.com
+17:26:32,332 DEBUG devpinoyLogger:130 - Typing in an element: password_CSS entered value as: wSCz-_ysVDjm6cR
+17:26:32,455 DEBUG devpinoyLogger:114 - Clicking on element: signinbtn_CSS
+17:26:40,491 DEBUG devpinoyLogger:114 - Clicking on element: closebtn_CSS
+17:26:40,529 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:26:40,531 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:26:40,535 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:26:40,538 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:26:40,538 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Leonidus/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:26:49,900 DEBUG devpinoyLogger:114 - Clicking on element: accountstab_CSS
+17:26:50,806 DEBUG devpinoyLogger:114 - Clicking on element: crmlink_CSS
+17:26:51,633 DEBUG devpinoyLogger:130 - Typing in an element: accountname_CSS entered value as: Leon
+17:26:51,634 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:26:51,635 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:26:51,636 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:26:51,637 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:26:51,638 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Leonidus/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
