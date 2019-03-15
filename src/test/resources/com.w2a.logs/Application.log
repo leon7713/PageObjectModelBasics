@@ -1,12 +1,11 @@
-09/03/2019 17:26:20 devpinoyLogger config file loaded !!!
-09/03/2019 17:26:20 devpinoyLogger OR file loaded !!!
-09/03/2019 17:26:20 devpinoyLogger chrome launched !!!
-09/03/2019 17:26:29 devpinoyLogger navigated to: https://www.zoho.com/index.html
-09/03/2019 17:26:31 devpinoyLogger Clicking on element: loginLink_CSS
-09/03/2019 17:26:32 devpinoyLogger Typing in an element: email_CSS entered value as: leonushar@gmail.com
-09/03/2019 17:26:32 devpinoyLogger Typing in an element: password_CSS entered value as: wSCz-_ysVDjm6cR
-09/03/2019 17:26:32 devpinoyLogger Clicking on element: signinbtn_CSS
-09/03/2019 17:26:40 devpinoyLogger Clicking on element: closebtn_CSS
-09/03/2019 17:26:49 devpinoyLogger Clicking on element: accountstab_CSS
-09/03/2019 17:26:50 devpinoyLogger Clicking on element: crmlink_CSS
-09/03/2019 17:26:51 devpinoyLogger Typing in an element: accountname_CSS entered value as: Leon
+15/03/2019 17:37:41 devpinoyLogger config file loaded !!!
+15/03/2019 17:37:41 devpinoyLogger OR file loaded !!!
+15/03/2019 17:37:41 devpinoyLogger chrome launched !!!
+15/03/2019 17:37:49 devpinoyLogger navigated to: https://www.zoho.com/index.html
+15/03/2019 17:37:52 devpinoyLogger Clicking on element: loginLink_CSS
+15/03/2019 17:37:52 devpinoyLogger Typing in an element: email_CSS entered value as: leonushar@gmail.com
+15/03/2019 17:37:52 devpinoyLogger Typing in an element: password_CSS entered value as: wSCz-_ysVDjm6cR
+15/03/2019 17:37:52 devpinoyLogger Clicking on element: signinbtn_CSS
+15/03/2019 17:38:11 devpinoyLogger Clicking on element: accountstab_CSS
+15/03/2019 17:38:12 devpinoyLogger Clicking on element: crmlink_CSS
+15/03/2019 17:38:12 devpinoyLogger Typing in an element: accountname_CSS entered value as: Leon

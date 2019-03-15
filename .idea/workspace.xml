@@ -3,6 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b609dc8a-e653-46b9-a90f-a83054991380" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/w2a/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/w2a/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com.w2a.logs/Application.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com.w2a.logs/Application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com.w2a.logs/Selenium.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com.w2a.logs/Selenium.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/w2a/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/w2a/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/html/extent.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/html/extent.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite1_test2_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.CreateAccountTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.CreateAccountTest_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.LoginTest_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.w2a.testcases.LoginTest_results.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/w2a/base/Page.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1853">
-              <caret line="134" column="61" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
+            <state relative-caret-position="236">
+              <caret line="161" column="5" lean-forward="true" selection-start-line="161" selection-start-column="5" selection-end-line="161" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4518#4519#0" expanded="true" />
@@ -67,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/w2a/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="168">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,11 +89,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/com.w2a.properties/OR.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/LoginTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,7 +146,6 @@
         <option value="$PROJECT_DIR$/src/main/java/utilities/Utilities.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/rough/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/w2a/pages/HomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/w2a/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/w2a/listeners/CustomListeners.java" />
         <option value="$PROJECT_DIR$/src/main/java/listeners/CustomListeners.java" />
         <option value="$PROJECT_DIR$/src/test/resources/com.w2a.properties/Config.properties" />
@@ -140,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/w2a/base/Page.java" />
         <option value="$PROJECT_DIR$/src/test/resources/com.w2a.properties/OR.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/w2a/com/w2a/pages/crm/com/w2w/pages/crm/accounts/CreateAccountPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/w2a/pages/LoginPage.java" />
       </list>
     </option>
   </component>
@@ -162,6 +184,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,8 +303,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,15 +397,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.09 at 13h 36m 45s.xml">
-      <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.09 at 16h 40m 13s.xml">
-      <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.09 at 16h 47m 50s.xml">
-      <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.09 at 16h 49m 48s.xml">
       <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -405,12 +418,21 @@
     <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.09 at 17h 26m 53s.xml">
       <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.15 at 17h 24m 20s.xml">
+      <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.15 at 17h 36m 08s.xml">
+      <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Leonidus_projects_PageObjectModelBasics_src_test_resources_com_w2a_runner_testng_xml - 2019.03.15 at 17h 38m 14s.xml">
+      <configuration name="C:/Users/Leonidus/projects/PageObjectModelBasics/src/test/resources/com.w2a.runner/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,7 +441,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34042552" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4304419" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,16 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/w2a/base/TopMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -614,28 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/w2a/base/Page.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1853">
-          <caret line="134" column="61" selection-start-line="134" selection-start-column="61" selection-end-line="134" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4518#4519#0" expanded="true" />
-            <element signature="e#4547#4548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/w2a/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -650,6 +640,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/w2a/base/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="161" column="5" lean-forward="true" selection-start-line="161" selection-start-column="5" selection-end-line="161" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4518#4519#0" expanded="true" />
+            <element signature="e#4547#4548#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/w2a/testcases/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/w2a/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
